@@ -269,6 +269,7 @@ TSWLatexianTemp*
 latexmkrc
 
 
+*.exe
 a.out
 *.o
 *.s
@@ -281,3 +282,11 @@ presentations/Python Quickstart Tutorial/MyExcelFile.xlsx
 presentations/~$SimCenter Bootcamp Python.pptx
 
 presentations/Videos
+
+*.swp
+
+code/PetersCode/pi/pi-omp
+
+code/PetersCode/pi/pi
+
+code/PetersCode/pi/pi-loop
